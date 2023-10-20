@@ -7,13 +7,13 @@
 </h1>
 
 
-<p align="center"> 
+<h3 align="center"> 
   <samp>
     「 I am on my way to becoming a professional web developer 」
     <br>
     <br>
   </samp>
-</p>
+</h3>
 
 <!-- About Section -->
  
