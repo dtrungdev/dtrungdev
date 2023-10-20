@@ -20,7 +20,7 @@
  # About me
  
 <p>
-<img alt="Night Coding" src="https://media0.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" align="right"/>
+<img alt="Night Coding" src="https://media0.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" align="right" height='400px' width='auto'/>
 
   <br/>
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/>
