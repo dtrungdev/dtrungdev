@@ -9,7 +9,7 @@
 
 <p align="center"> 
   <samp>
-    「 I am on my way to become a professional web developer 」
+    「 I am on my way to becoming a professional web developer 」
     <br>
     <br>
   </samp>
@@ -27,7 +27,7 @@
  ⚠️ &emsp; Don't smart!!! <br/>
  ❤️ &emsp; Love to writing code and learning new features<br/>
  📧 &emsp; Reach me anytime: dtrungdev2003@gmail.com<br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/dtrungdev/dtrungdev/issues)
+ 💬 &emsp; Ask me about anything [ <a href='https://github.com/dtrungdev/dtrungdev/issues'>here<a>]
 
 </p>
 
