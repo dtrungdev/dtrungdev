@@ -8,11 +8,7 @@
 
 
 <p align="center"> 
-  <samp>
     「 I am on my way to becoming a professional web developer 」
-    <br>
-    <br>
-  </samp>
 </p>
 
 <!-- About Section -->
