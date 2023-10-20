@@ -22,7 +22,7 @@
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/>
  ⚠️ &emsp; Don't smart!!! <br/>
  ❤️ &emsp; Love to writing code and learning new features<br/>
- 📧 &emsp; Reach me anytime: <u>dtrungdev2003@gmail.com</u> <br/>
+ 📧 &emsp; Reach me anytime: <ins>dtrungdev2003@gmail.com</ins> <br/>
  💬 &emsp; Ask me about anything [ <a href='https://github.com/dtrungdev/dtrungdev/issues'>here<a>]
 
 </p>
